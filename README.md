@@ -1,15 +1,17 @@
 # Different-Intelligent-Models
 This folder, Different-Intelligent-Models, contains different intelligent models built using supervised and unsupervised techniques  It includes the methods I used in each model such as:
-# NLP and Cosine Similarity for content-based recommendations
 
-# SVD (Singular Value Decomposition) for user-based recommendations
 
-# Logistic Regression, SVM, and Neural Networks for prediction tasks
+ NLP and Cosine Similarity .
 
-# Convolutional Neural Networks (CNNs) and Transfer Learning (ResNet-50) for image-based emotion recognition
+SVD (Singular Value Decomposition) .
 
-# Sequence Processing for music generation
+ Logistic Regression, SVM, and Neural Networks .
 
-# YOLOv8 for object detection
+ Convolutional Neural Networks (CNNs) and Transfer Learning (ResNet-50) .
+ 
+ Sequence Processing for music generation.
 
-# Data Analysis and Metric Calculations for advertising performance evaluation
+ YOLOv8 for object detection.
+
+ Data Analysis and Metric Calculations for advertising performance evaluation.
