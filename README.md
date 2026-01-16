@@ -1,6 +1,6 @@
 # Different-Intelligent-Models
-This folder, Different-Intelligent-Models, contains different intelligent models built using supervised and unsupervised techniques  It includes the methods I used in each model such as:
-
+This folder, Different-Intelligent-Models, contains different intelligent models built using supervised and unsupervised techniques  .
+Each notebook includes the code and summary of the data link  and a brief overview of the analysis or model built such as:
 
  NLP and Cosine Similarity .
 
