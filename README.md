@@ -1,5 +1,5 @@
 # Different-Intelligent-Models
-This repository features various AI models developed using supervised and unsupervised techniques. Each notebook includes complete code dataset references and a clear explanation of the model and analysis performed.
+This repository features various AI models developed using supervised and unsupervised techniques. Each notebook includes complete code, dataset references, and a clear explanation of the model and analysis performed.
 
 All models were trained on Google Colab with GPU acceleration for optimal performance.
 
@@ -7,24 +7,20 @@ Technologies & Frameworks: Python, PyTorch, TensorFlow, Keras
 
 Key Techniques and Models:
 
-Natural Language Processing (NLP) and Cosine Similarity
+Natural Language Processing (NLP): applied using different vectorization techniques and Cosine Similarity
 
 Dimensionality Reduction: Singular Value Decomposition (SVD)
 
 Machine Learning Algorithms: Logistic Regression, SVM, Neural Networks
 
-Deep Learning: Convolutional Neural Networks (CNN), Transfer Learning (ResNet-50)
+Deep Learning: Convolutional Neural Networks (CNN), Transfer Learning (ResNet-50), Fine-tuning
 
-Sequence Modeling for music generation
+Sequence Modeling: music generation and time series prediction
 
 Object Detection: YOLOv8
 
-Data Analysis and Metrics Calculation for evaluating advertising performance
+Data Augmentation: applied to prevent overfitting and improve generalization
 
-Highlights:
+Evaluation Metrics: accuracy, confusion matrix, precision, recall, F1-score, and other relevant metrics
 
-Hands-on experience with state-of-the-art AI and Deep Learning techniques
-
-Fully documented notebooks for reproducibility and understanding of datasets and models
-
-Practical projects demonstrating NLP, computer vision, and predictive modeling
+Data Analysis: calculation of performance metrics for advertising and predictive tasks
