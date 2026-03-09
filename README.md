@@ -2,6 +2,8 @@
 This folder, contains different intelligent models built using supervised and unsupervised techniques  
 Each notebook includes the code and summary of the data link  and a brief overview of the analysis or model built  i used Google colab to train them where i rely on GPU to accelerate it  in generale i apply this techniques:
 
+Frameworks  : PyTorch, TensorFlow, Keras
+
  NLP and Cosine Similarity .
 
 SVD (Singular Value Decomposition) .
