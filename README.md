@@ -3,24 +3,24 @@ This repository features various AI models developed using supervised and unsupe
 
 All models were trained on Google Colab with GPU acceleration for optimal performance.
 
-Technologies & Frameworks: Python, PyTorch, TensorFlow, Keras
+**Technologies & Frameworks**: Python, PyTorch, TensorFlow, Keras
 
-Key Techniques and Models:
+**Key Techniques and Models**:
 
-Natural Language Processing (NLP): applied using different vectorization techniques and Cosine Similarity
+**Natural Language Processing (NLP)**: applied using different vectorization techniques and Cosine Similarity
 
-Dimensionality Reduction: Singular Value Decomposition (SVD)
+**Dimensionality Reduction**: Singular Value Decomposition (SVD)
 
-Machine Learning Algorithms: Logistic Regression, SVM, Neural Networks
+**Machine Learning Algorithms**: Logistic Regression, SVM, Neural Networks
 
-Deep Learning: Convolutional Neural Networks (CNN), Transfer Learning (ResNet-50), Fine-tuning
+**Deep Learning**: Convolutional Neural Networks (CNN), Transfer Learning (ResNet-50), Fine-tuning
 
-Sequence Modeling: music generation and time series prediction
+**Sequence Modeling**: music generation and time series prediction
 
-Object Detection: YOLOv8
+**Object Detection**: YOLOv8
 
-Data Augmentation: applied to prevent overfitting and improve generalization
+**Data Augmentation**: applied to prevent overfitting and improve generalization
 
-Evaluation Metrics: accuracy, confusion matrix, precision, recall, F1-score, and other relevant metrics
+**Evaluation Metrics**: accuracy, confusion matrix, precision, recall
 
-Data Analysis: calculation of performance metrics for advertising and predictive tasks
+**Data Analysis**: calculation of performance metrics for advertising and predictive tasks
