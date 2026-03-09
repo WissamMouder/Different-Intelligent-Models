@@ -17,7 +17,7 @@ All models were trained on Google Colab with GPU acceleration for optimal perfor
 
 **Sequence Modeling**: music generation and time series prediction
 
-**Object Detection**: YOLOv8
+**Vision par Ordinateur et Détection d’Objets**: YOLOv8, prétraitement d’images
 
 **Data Augmentation**: applied to prevent overfitting and improve generalization
 
